@@ -1,4 +1,4 @@
-# Analyzing-Amazon-reviews
+# Retrieving and analyzing E-commerce reviews (NLP)
 
 E-commerce is a fast-growing business, with the COVID-19 pandemic only accelerating their establishment in the societies. In this sense, companies such as Amazon, Alibaba, eBay, Best buy, etc., offer millions of products on their website, which can be bought and shipped to your house with a couple of clicks. 
 
